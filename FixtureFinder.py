@@ -233,7 +233,7 @@ class FixtureFinder:
 		return table
 
 def main(argv):
-	parser = OptionParser(usage="Usage: FixtureScraper [leagueCode]")
+	parser = OptionParser(usage="Usage: FixtureFinder [OPTIONS] [leagueCode]")
 	parser.add_option("-l", "--list",
 		action="store_true",
 		dest="listLeagueCodes",
