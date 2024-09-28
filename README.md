@@ -1,6 +1,8 @@
 # FixtureFinder
 Finds any upcoming top v bottom football league fixtures, by scraping the web for tables and fixture information.
 
+Note - this may be deprecated since the underlying data sources may no longer work. 
+
 ## Usage
 ```bash
 Usage: FixtureFinder [OPTIONS] [leagueCode]
